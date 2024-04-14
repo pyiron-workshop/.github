@@ -15,6 +15,7 @@
 | NFDI-MatWerk: Workflows for materials science simulations with pyiron | 2023 | [:memo:](https://nfdi-matwerk.de/nfdi/2023/program/scientific-program) | [:books:](https://workshop.pyiron.org/NFDI-Matwerk-workshop-2023/intro.html) | [:package:](https://github.com/pyiron-workshop/NFDI-Matwerk-workshop-2023) | | 
 | Hands-on Tutorial on Workflows for Materials Science Simulation | 2023 | [:memo:](https://www.dpg-verhandlungen.de/year/2023/conference/skm/part/mm/session/1/contribution/1) | | [:package:](https://github.com/pyiron-workshop/dpg-workflows-tutorial-2023) | | 
 | LAMMPS Virtual Workshop and Symposium | 2023 | [:memo:](https://www.lammps.org/workshops/Aug23/) | [:books:](http://workshop.pyiron.org/lammps-workshop-2023) | [:package:](https://github.com/pyiron-workshop/lammps-workshop-2023) | | 
+| DPG tutorial: Creating and Running Automated Workflows for Material Science Simulations | 2024 | [:memo:](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/tut/session/1/contribution/1) | | [:package:](https://github.com/pyiron-workshop/DPG-tutorial-2024) | | 
 | IMSI: Data-Driven Materials Informatics | 2024 | [:memo:](https://www.imsi.institute/activities/data-driven-materials-informatics/) | | [:package:](https://github.com/pyiron-workshop/imsi-tutorial) | |
 
 

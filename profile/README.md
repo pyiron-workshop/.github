@@ -4,6 +4,7 @@
 
 | Workshop Title | Year | Workshop | Website | Repository | Videos |
 |:---------------|:-----|:--------:|:-------:|:----------:|:------:|
+| Cecam: Virtual Materials Design: AI, Simulation, and Workflows | 2025 | [:memo:](https://www.cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398) | | [:package:](https://gitlab.mpcdf.mpg.de/pyiron/cecam-tutorial) | |
 | DPG tutorial: Automated Workflows and Machine Learning for Materials Science Simulations | 2025 | [:memo:](https://www.dpg-verhandlungen.de/year/2025/conference/regensburg/part/mm/session/1/contribution/1) | | [:package:](https://github.com/pyiron-workshop/DPG-tutorial-2025) | |
 | IMSI: Data-Driven Materials Informatics | 2024 | [:memo:](https://www.imsi.institute/activities/data-driven-materials-informatics/) | | [:package:](https://github.com/pyiron-workshop/imsi-tutorial) | |
 | DPG tutorial: Creating and Running Automated Workflows for Material Science Simulations | 2024 | [:memo:](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/tut/session/1/contribution/1) | | [:package:](https://github.com/pyiron-workshop/DPG-tutorial-2024) | |

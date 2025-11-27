@@ -4,6 +4,7 @@
 
 | Workshop Title | Year | Workshop | Website | Repository | Videos |
 |:---------------|:-----|:--------:|:-------:|:----------:|:------:|
+| PMD General assembly | 2025 | [:memo:](https://www.material-digital.de/event/vollversammlung2025) | | [:package:](https://gitlab.mpcdf.mpg.de/pyiron/pmd_workshop_november_2025) | |
 | Los Alamos National Laboratory Tutorial | 2025| | [:books:](http://workshop.pyiron.org/lanl-tutorial-2025/) | [:package:](https://github.com/pyiron-workshop/lanl-tutorial-2025) | |  
 | Cecam: Virtual Materials Design: AI, Simulation, and Workflows | 2025 | [:memo:](https://www.cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398) | [:books:](http://workshop.pyiron.org/CECAM-2025/) | [:package:](https://github.com/pyiron-workshop/CECAM-2025) | |
 | DPG tutorial: Automated Workflows and Machine Learning for Materials Science Simulations | 2025 | [:memo:](https://www.dpg-verhandlungen.de/year/2025/conference/regensburg/part/mm/session/1/contribution/1) | [:books:](http://workshop.pyiron.org/DPG-tutorial-2025/) | [:package:](https://github.com/pyiron-workshop/DPG-tutorial-2025) | |

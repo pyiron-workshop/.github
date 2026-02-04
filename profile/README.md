@@ -4,7 +4,7 @@
 
 | Workshop Title | Year | Workshop | Website | Repository | Videos |
 |:---------------|:-----|:--------:|:-------:|:----------:|:------:|
-| DPG tutorial: Linking large language models with digital workflows for materials science simulations | 2026 | [:memo:](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/tut/session/6/contribution/1) | | [:package:](https://github.com/pyiron-workshop/DPG-tutorial-2026) | |
+| DPG tutorial: Linking large language models with digital workflows for materials science simulations | 2026 | [:memo:](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/tut/session/6/contribution/1) | [:books:](http://workshop.pyiron.org/DPG-tutorial-2026/) | [:package:](https://github.com/pyiron-workshop/DPG-tutorial-2026) | |
 | PMD General assembly | 2025 | [:memo:](https://www.material-digital.de/event/vollversammlung2025) | | [:package:](https://gitlab.mpcdf.mpg.de/pyiron/pmd_workshop_november_2025) | |
 | Los Alamos National Laboratory Tutorial | 2025| | [:books:](http://workshop.pyiron.org/lanl-tutorial-2025/) | [:package:](https://github.com/pyiron-workshop/lanl-tutorial-2025) | |  
 | Cecam: Virtual Materials Design: AI, Simulation, and Workflows | 2025 | [:memo:](https://www.cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398) | [:books:](http://workshop.pyiron.org/CECAM-2025/) | [:package:](https://github.com/pyiron-workshop/CECAM-2025) | |

@@ -4,6 +4,7 @@
 
 | Workshop Title | Year | Workshop | Website | Repository | Videos |
 |:---------------|:-----|:--------:|:-------:|:----------:|:------:|
+| Los Alamos National Laboratory - Executorlib - Tutorial | 2026 | | [:books:](https://workshop.pyiron.org/lanl-executorlib-tutorial) | | [:package:](https://github.com/pyiron-workshop/lanl-executorlib-tutorial) | |
 | PMD Tools and Services Walkthrough Session - Workflows | 2026 | [:memo:](https://www.material-digital.de/event/Walkthrough_Session_Workflows_I) | | [:package:](https://github.com/pyiron-dev/hackathon) | |
 | DPG tutorial: Linking large language models with digital workflows for materials science simulations | 2026 | [:memo:](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/tut/session/6/contribution/1) | [:books:](http://workshop.pyiron.org/DPG-tutorial-2026/) | [:package:](https://github.com/pyiron-workshop/DPG-tutorial-2026) | |
 | PMD General assembly | 2025 | [:memo:](https://www.material-digital.de/event/vollversammlung2025) | | [:package:](https://gitlab.mpcdf.mpg.de/pyiron/pmd_workshop_november_2025) | |

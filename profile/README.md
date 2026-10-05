@@ -4,7 +4,7 @@
 
 | Workshop Title | Year | Workshop | Website | Repository | Videos |
 |:---------------|:-----|:--------:|:-------:|:----------:|:------:|
-| FONDA Retreat | 2026 | [:memo:](https://fonda.hu-berlin.de)  | [:books:](http://workshop.pyiron.org/fonda-retreat-2026/) | [:package:](https://notebooks.mpcdf.mpg.de/binder/v2/gl/samsstud%2Ffonda-retreat-2026/HEAD) | |
+| FONDA Retreat | 2026 | [:memo:]([https://fonda.hu-berlin.de](https://notebooks.mpcdf.mpg.de/binder/v2/gl/samsstud%2Ffonda-retreat-2026/HEAD))  | [:books:](http://workshop.pyiron.org/fonda-retreat-2026/) | [:package:](https://gitlab.mpcdf.mpg.de/samsstud/fonda-retreat-2026) | |
 | PMD General assembly | 2026 | [:memo:](https://materialdigital-vollversammlung-2026.de)  | [:books:](http://workshop.pyiron.org/pmd-2026/) | [:package:](https://github.com/pyiron-workshop/pmd-2026) | |
 | NFDI Matwerk Summer School - pyiron Tutorial | 2026 | [:memo:](https://www.eusmat.net/research/other-events/nfdi-matwerk-summer-school-2026/)  | [:books:](http://workshop.pyiron.org/NFDI-summerschool-2026/) | [:package:](https://github.com/pyiron-workshop/NFDI-summerschool-2026) | |
 | Los Alamos National Laboratory - Executorlib - Tutorial | 2026 | | [:books:](https://workshop.pyiron.org/lanl-executorlib-tutorial) | [:package:](https://github.com/pyiron-workshop/lanl-executorlib-tutorial) | |
